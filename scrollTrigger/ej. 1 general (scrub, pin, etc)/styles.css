@@ -26,12 +26,11 @@ body{
     background-color: fuchsia;
 }
 
-/* .square2{
-    margin-top: 300rem;
-    width: 150rem;
-    height: 150rem;
-    background-color: blue;
-} */
+.square2{
+    width: 150px;
+    height: 20vh;
+    background-color: green;
+}
 
 .red{
     background-color: red;

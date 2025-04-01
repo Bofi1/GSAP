@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    font-family: arial;
+    font-size: 1.5rem;
+}
+
+nav{
+    position: sticky;
+    top: 0;
+    transition: all 600ms ease-in-out;
+    background-color: tan;
+    color: white;   
+}
+
+ul{
+    margin: 0;
+    padding: 40px;
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+}
+
+li{
+    margin-right: 60px;
+}
+
+.panel{
+    background-color: tan;
+    height: 100vh;
+}
+
+.nav-active{
+    background-color: white;
+    color: black;
+}
+
+p{
+    padding-top: 50px;
+    margin: 0 auto;
+    max-width: 1200px;
+}
